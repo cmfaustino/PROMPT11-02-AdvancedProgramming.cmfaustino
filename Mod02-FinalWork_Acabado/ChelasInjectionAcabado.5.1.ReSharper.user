@@ -1,0 +1,33 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="0A9F133C-457E-4A47-A615-59ACB5C970F9/f:SomeInterface2Impl.cs" caret="0" fromTop="0" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:MetodosExtensao.cs" caret="67" fromTop="4" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:InjectionExtension.cs" caret="10799" fromTop="13" />
+      <File id="0A9F133C-457E-4A47-A615-59ACB5C970F9/f:SomeInterface4Impl.cs" caret="0" fromTop="0" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:TypeConfig.cs" caret="7501" fromTop="5" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Binder.cs" caret="1715" fromTop="16" />
+      <File id="03A2C558-4A36-4B14-AD60-190FAF5AE27B/f:ChelasInjectionTests.cs" caret="2456" fromTop="4" />
+      <File id="03A2C558-4A36-4B14-AD60-190FAF5AE27B/f:MyBinder.cs" caret="2290" fromTop="14" />
+      <File id="6666CD41-C05E-43B4-B43E-B41B5871E8DB/f:Injector.cs" caret="10064" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

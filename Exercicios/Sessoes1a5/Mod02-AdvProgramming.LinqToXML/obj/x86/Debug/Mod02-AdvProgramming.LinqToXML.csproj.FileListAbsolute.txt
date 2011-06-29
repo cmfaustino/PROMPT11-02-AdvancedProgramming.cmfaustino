@@ -1,0 +1,10 @@
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.LinqToXML\bin\Debug\customers.xml
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.LinqToXML\bin\Debug\Mod02-AdvProgramming.LinqToXML.exe
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.LinqToXML\bin\Debug\Mod02-AdvProgramming.LinqToXML.pdb
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.LinqToXML\bin\Debug\Mod02-AdvProgramming.Data.dll
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.LinqToXML\bin\Debug\Mod02-AdvProgramming.Utils.dll
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.LinqToXML\bin\Debug\Mod02-AdvProgramming.Data.pdb
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.LinqToXML\bin\Debug\Mod02-AdvProgramming.Utils.pdb
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.LinqToXML\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.LinqToXML\obj\x86\Debug\Mod02-AdvProgramming.LinqToXML.exe
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.LinqToXML\obj\x86\Debug\Mod02-AdvProgramming.LinqToXML.pdb

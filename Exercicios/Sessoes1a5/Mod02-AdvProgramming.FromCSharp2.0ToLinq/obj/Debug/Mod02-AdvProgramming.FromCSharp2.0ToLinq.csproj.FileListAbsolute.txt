@@ -1,0 +1,9 @@
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.FromCSharp2.0ToLinq\bin\Debug\Mod02-AdvProgramming.FromCSharp2.0ToLinq.exe
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.FromCSharp2.0ToLinq\bin\Debug\Mod02-AdvProgramming.FromCSharp2.0ToLinq.pdb
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.FromCSharp2.0ToLinq\bin\Debug\Mod02-AdvProgramming.Data.dll
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.FromCSharp2.0ToLinq\bin\Debug\Mod02-AdvProgramming.Utils.dll
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.FromCSharp2.0ToLinq\bin\Debug\Mod02-AdvProgramming.Data.pdb
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.FromCSharp2.0ToLinq\bin\Debug\Mod02-AdvProgramming.Utils.pdb
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.FromCSharp2.0ToLinq\obj\Debug\ResolveAssemblyReference.cache
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.FromCSharp2.0ToLinq\obj\Debug\Mod02-AdvProgramming.FromCSharp2.0ToLinq.exe
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.FromCSharp2.0ToLinq\obj\Debug\Mod02-AdvProgramming.FromCSharp2.0ToLinq.pdb

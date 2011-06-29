@@ -1,0 +1,5 @@
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.ExpTrees\bin\Debug\Mod02-AdvProgramming.ExpTrees.exe
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.ExpTrees\bin\Debug\Mod02-AdvProgramming.ExpTrees.pdb
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.ExpTrees\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.ExpTrees\obj\x86\Debug\Mod02-AdvProgramming.ExpTrees.exe
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Exercicios\Sessoes1a5\Mod02-AdvProgramming.ExpTrees\obj\x86\Debug\Mod02-AdvProgramming.ExpTrees.pdb

@@ -1,0 +1,7 @@
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.SampleTypes\bin\Debug\ChelasInjection.SampleTypes.dll
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.SampleTypes\bin\Debug\ChelasInjection.SampleTypes.pdb
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.SampleTypes\bin\Debug\ChelasInjection.dll
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.SampleTypes\bin\Debug\ChelasInjection.pdb
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.SampleTypes\obj\Debug\ResolveAssemblyReference.cache
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.SampleTypes\obj\Debug\ChelasInjection.SampleTypes.dll
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.SampleTypes\obj\Debug\ChelasInjection.SampleTypes.pdb

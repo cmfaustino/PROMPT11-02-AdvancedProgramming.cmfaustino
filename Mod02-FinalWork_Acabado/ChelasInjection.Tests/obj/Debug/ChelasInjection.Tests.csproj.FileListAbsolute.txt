@@ -1,0 +1,13 @@
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.Tests\bin\Debug\ChelasInjection.Tests.dll
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.Tests\bin\Debug\ChelasInjection.Tests.pdb
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.Tests\bin\Debug\ChelasInjection.dll
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.Tests\bin\Debug\ChelasInjection.SampleTypes.dll
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.Tests\bin\Debug\nunit.framework.dll
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.Tests\bin\Debug\nunit.mocks.dll
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.Tests\bin\Debug\pnunit.framework.dll
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.Tests\bin\Debug\ChelasInjection.SampleTypes.pdb
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.Tests\bin\Debug\ChelasInjection.pdb
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.Tests\bin\Debug\nunit.framework.xml
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.Tests\obj\Debug\ChelasInjection.Tests.dll
+C:\z_PROMPT\PROMPT\uc02\repos\PROMPT11-02-AdvancedProgramming.cmfaustino\Mod02-FinalWork_Acabado\ChelasInjection.Tests\obj\Debug\ChelasInjection.Tests.pdb
